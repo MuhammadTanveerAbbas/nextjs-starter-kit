@@ -1,6 +1,6 @@
 # Ultimate Next.js Starter
 
-A zero-to-production Next.js setup with industry-proven folder structure, essential libraries, and streamlined commands. Get up and running fast with animations, state management, SEO, data fetching, utilities, and more—no bloat, only what you need.
+A zero-to-production Next.js setup with industry-proven folder structure, essential libraries, and streamlined commands. Get up and running fast with animations, state management, SEO, data fetching, utilities, and more no bloat, only what you need.
 
 ---
 
@@ -15,7 +15,7 @@ A zero-to-production Next.js setup with industry-proven folder structure, essent
 - **SEO & Sitemap** automation
 - **Data Fetching** powered by SWR
 - **Tailwind CSS** utilities for dynamic classes
-- **No unnecessary dependencies**—just the essentials
+- **No unnecessary dependencies** just the essentials
 
 ---
 
